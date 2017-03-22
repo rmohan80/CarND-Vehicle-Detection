@@ -1,5 +1,3 @@
----
-
 **Vehicle Detection Project**
 
 The goals / steps of this project are the following:
@@ -140,4 +138,4 @@ a) Maybe using a different technique than frame averaging can help both #1 and #
 
 b) Using a deep learning approach could make it faster and realtime. YOLO is another technique that I came across that seems to offer fast performance with great detection of various classes that could include pedestrians, different types of vehicles etc.
 
-Overall, this was a challenging project, but enjoyable at the same time!
+Overall, this was a challenging project, but enjoyable at the same time!!
